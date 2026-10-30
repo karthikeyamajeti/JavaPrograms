@@ -1,4 +1,4 @@
-package BasicPrograms.IfAndElseItsFlavoursPrograms;
+package BasicPrograms.ProgramsOnIfElse;
 //WAP TO FIND WHETHER THE GIVEN NUMBER IS LEAP YEAR OR NOT 'if else'
 import java.util.*;
 public class LeapYearOrNot {

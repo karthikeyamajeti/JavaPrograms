@@ -1,4 +1,4 @@
-package BasicPrograms.IfAndElseItsFlavoursPrograms;
+package BasicPrograms.ProgramsOnIfElse;
 //WAP TO FIND SMALLEST OF ANY TWO NUMBERS USING 'if-else'
 import java.util.*;
 public class SmallestOfAnyTwoNumbersUsingIfElse {
