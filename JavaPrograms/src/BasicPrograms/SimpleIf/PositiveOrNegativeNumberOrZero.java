@@ -1,4 +1,4 @@
-package BasicPrograms.ProgramsOnSimpleIf;
+package BasicPrograms.SimpleIf;
 //WAP TO FIND WHETHER THE GIVEN NUMBER IS A POSITTIVE NUMBER OR  NEGATIVE NUMBER OR ZERO
 import java.util.*;
 public class PositiveOrNegativeNumberOrZero {

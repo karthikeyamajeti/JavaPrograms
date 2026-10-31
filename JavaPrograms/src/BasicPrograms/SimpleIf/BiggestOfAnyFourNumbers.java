@@ -1,4 +1,4 @@
-package BasicPrograms.ProgramsOnSimpleIf;
+package BasicPrograms.SimpleIf;
 //WAP TO FIND BIGGEST OF ANY FOUR NUMBERS USING SIMPLE 'if'
 import java.util.*;
 public class BiggestOfAnyFourNumbers {

@@ -1,4 +1,4 @@
-package BasicPrograms.ProgramsOnSimpleIf;
+package BasicPrograms.SimpleIf;
 //WAP TO FIND WHETHER THE GIVEN NUMBER IS EVEN NUMBER OR ODD NUMBER 
 import java.util.*;
 public class EvenOrOdd {

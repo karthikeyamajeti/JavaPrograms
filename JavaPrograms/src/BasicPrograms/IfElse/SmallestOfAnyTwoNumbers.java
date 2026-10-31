@@ -1,7 +1,7 @@
-package BasicPrograms.ProgramsOnIfElse;
+package BasicPrograms.IfElse;
 //WAP TO FIND SMALLEST OF ANY TWO NUMBERS USING 'if-else'
 import java.util.*;
-public class SmallestOfAnyTwoNumbersUsingIfElse {
+public class SmallestOfAnyTwoNumbers {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         
