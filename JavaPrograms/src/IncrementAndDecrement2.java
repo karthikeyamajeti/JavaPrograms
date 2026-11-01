@@ -1,6 +1,5 @@
 //Increment and decrement at the time of assignment
-package IncrementAndDecrement2;
-public class java {
+public class IncrementAndDecrement2 {    
     public static void main(String[] args) {
         int a=10,b;
         
