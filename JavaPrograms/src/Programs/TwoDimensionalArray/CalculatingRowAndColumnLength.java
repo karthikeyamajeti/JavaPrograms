@@ -1,6 +1,6 @@
 package Programs.TwoDimensionalArray;
 //WAP to calculate the row and column length of 2D Array
-public class CalculatingRowAndColumnLenth {
+public class CalculatingRowAndColumnLength {
     public static void main(String[] args) {
         //Initialisation of 2D Array
         int a[][]={{1,2,3,4},{5,6,7,8},{9,10,11,12}};
