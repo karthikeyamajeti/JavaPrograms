@@ -1,4 +1,4 @@
-package Functions.Withoutargumentsandwithreturnvalue;
+package Programs.Functions.Withoutargumentsandwithreturnvalue;
 // WAP to find sum of two numbers using without arguments and with return value
 import java.util.*;
 public class AdditionOfTwoNumbers {
