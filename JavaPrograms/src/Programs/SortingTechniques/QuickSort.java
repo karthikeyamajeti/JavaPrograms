@@ -17,17 +17,15 @@ public class QuickSort {
             // Check if current element is smaller than pivot
             if (a[j] < pivot) {
                 i++;
-
-                // Swap a[i] and a[j]
-                int temp = a[i];
+                int temp = a[i];// Swap a[i] and a[j]
                 a[i] = a[j];
                 a[j] = temp;
             }
         }
 
         // Place pivot in its correct position
-        int temp = a[i + 1];
-        a[i + 1] = a[high];
+        int temp = a[i+1];
+        a[i+1] = a[high];
         a[high] = temp;
 
         // Return pivot index
@@ -38,7 +36,7 @@ public class QuickSort {
     static void quickSort(int a[], int low, int high) {
 
         // Check whether the array has more than one element
-        if (low < high) {
+        if(low<high){
 
             // Find the correct position of pivot
             int pi = partition(a, low, high);
@@ -68,8 +66,8 @@ public class QuickSort {
             a[i] = sc.nextInt();
         }
 
-        // Call Quick Sort method
-        quickSort(a, 0, n - 1);
+        // Calling Quick Sort method
+        quickSort(a,0,n-1);
 
         // Displaying the sorted array
         System.out.println("Sorted array:");
