@@ -1,4 +1,10 @@
 import java.util.*; 
+/*
+WAP to demonstrate the use of a parameterized constructor by creating a 
+Person class with two instance variables: `name` and `age`. Accept the 
+person's name and age from the user, initialize them using the 
+parameterized constructor, and display the details using an instance method.
+*/
 class Person {
     // Instance variables
     String name;
