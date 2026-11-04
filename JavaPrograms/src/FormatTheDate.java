@@ -13,14 +13,13 @@ public class FormatTheDate {
         Scanner sc = new Scanner(System.in);
 
         // Read date in yyyy-MM-dd format
-        String input = sc.nextLine();
+        String str = sc.nextLine();
 
         // Convert String into LocalDate
-        LocalDate date = LocalDate.parse(input);
+        LocalDate date = LocalDate.parse(str);
 
         // Define the required output format
-        DateTimeFormatter formatter =
-            DateTimeFormatter.ofPattern("EEEE, MMMM dd, yyyy");
+        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("EEEE, MMMM dd, yyyy");
 
         // Format and display the date
         System.out.println(date.format(formatter));
