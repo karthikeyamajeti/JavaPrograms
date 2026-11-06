@@ -1,5 +1,4 @@
 import java.util.*;
-
 // Customer class
 class Customer {
     String name;
